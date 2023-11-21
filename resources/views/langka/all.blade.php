@@ -1,13 +1,13 @@
 @extends('layout.main')
 @section('content')
-    <h1 class='mb-3'>List Nama Nama Hewan</h1>
+    <h1 class='mb-3'>List Nama Nama Hewan dan Serangga Langka</h1>
     <table class="table table-striped table-bordered">
         <thead>
             <tr class="table-dark">
                 <th scope="col">Nomor</th>
                 <th scope="col">Nama Hewan</th>
                 <th scope="col">Nama Serangga</th>
-                <th scope="col">Persamaan</th>
+                <th scope="col">Penyebab</th>
                 <th scope="col">action</th>
             </tr>
         </thead>

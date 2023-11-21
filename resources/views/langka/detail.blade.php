@@ -8,15 +8,15 @@
             <input type="text" class="form-control" name="nis" id="nis" value="{{ $jenis->id }}" disabled>
         </div>
         <div class="form-group">
-            <label for="">Nama Hewan</label>
+            <label for="">Nama Hewan Langka</label>
             <input type="text" class="form-control" name="nama" id="nama" value="{{ $jenis->nama_hewanLangka }}" disabled>
         </div>
         <div class="form-group">
-            <label for="">Makanan</label>
+            <label for="">Nama Serangga Langka</label>
             <input type="text" class="form-control" name="tanggal_lahir" id="tanggal_lahir" value="{{ $jenis->nama_seranggaLangka }}" disabled>
         </div>
         <div class="form-group">
-            <label for="">Seskripsi</label>
+            <label for="">Penyebab</label>
             <input type="text" class="form-control" name="kelas" id="kelas" value="{{ $jenis->penyebab }}" disabled>
         </div>
         <div class="text-center"> 
