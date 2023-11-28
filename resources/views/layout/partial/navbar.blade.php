@@ -12,6 +12,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/serangga/all">Daftar Serangga</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/langka/all">Daftar Hewan Dan Serangga Langka</a>
+        </li>
       </ul>
     </div>
   </div>
